@@ -1,0 +1,24 @@
+﻿  SevSocket.cpp
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(30,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(130,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“fpos_t”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(130,10): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(130,10): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(134,21): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“fpos_t”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(134,21): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(134,21): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(138,21): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“fpos_t”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(138,21): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(138,21): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(146,37): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(149,14): warning C4244: “return”: 从“fpos_t”转换到“int”，可能丢失数据
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(109,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(111,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(118,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(134,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(138,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(142,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(153,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(205,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(271,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\龚宇蒙\source\repos\SocketServer\SocketServer\SevSocket.cpp(166,15): warning C4101: “wfds”: 未引用的局部变量
+  SocketServer.vcxproj -> C:\Users\龚宇蒙\source\repos\SocketServer\Debug\SocketServer.exe
